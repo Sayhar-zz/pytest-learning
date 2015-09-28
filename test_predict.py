@@ -1,4 +1,6 @@
-#
+#! /usr/bin/env python3
+#Sahar Massachi coding exercise for AlphaSights
+
 import pytest
 from predict import *
 

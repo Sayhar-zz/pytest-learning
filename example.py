@@ -1,5 +1,5 @@
-#! /usr/bin/env python
-
+#! /usr/bin/env python3
+#Sahar Massachi coding exercise for AlphaSights 
 import predict
 
 if __name__ == "__main__":
